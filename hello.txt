@@ -6,3 +6,4 @@ This is the 2nd line.
 Added 6th lin on local amchine. 
 7th line added from remote алсо.
 88888888888888888
+9-th line added by Dev 1.
