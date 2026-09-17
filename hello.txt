@@ -3,3 +3,4 @@ This is the 2nd line.
 3rd line added in feture-1.
 4th line added from local repo.
 5th line added from remote.
+Added 6th lin on local amchine. 
